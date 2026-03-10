@@ -1,0 +1,44 @@
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\bin\Debug\Stock Manage.exe.config
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\bin\Debug\Stock Manage.exe
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\bin\Debug\Stock Manage.pdb
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\bin\Debug\Google.Protobuf.dll
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\bin\Debug\MySql.Data.dll
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\bin\Debug\System.Buffers.dll
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\bin\Debug\System.IO.Pipelines.dll
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\bin\Debug\System.Memory.dll
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\bin\Debug\ZstdSharp.dll
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\bin\Debug\Google.Protobuf.pdb
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\bin\Debug\Google.Protobuf.xml
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\bin\Debug\MySql.Data.xml
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\bin\Debug\System.Buffers.xml
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\bin\Debug\System.IO.Pipelines.xml
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\bin\Debug\System.Memory.xml
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\obj\Debug\Stock Manage.csproj.AssemblyReference.cache
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\obj\Debug\Stock_Manage.Properties.Resources.resources
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\obj\Debug\Stock Manage.csproj.GenerateResource.cache
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\obj\Debug\Stock Manage.csproj.CoreCompileInputs.cache
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\obj\Debug\Stock Ma.B22FF4A5.Up2Date
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\obj\Debug\Stock Manage.exe
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\obj\Debug\Stock Manage.pdb
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\obj\Debug\Stock_Manage.frm_produto.resources
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\obj\Debug\Stock_Manage.frm_movimentos.resources
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\obj\Debug\Stock Manage.csproj.ResolveComReference.cache
+C:\Users\cozma\source\repos\Stock Manage\Stock Manage\obj\Debug\Stock_Manage.Form1.resources
