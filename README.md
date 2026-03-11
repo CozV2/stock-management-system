@@ -29,7 +29,7 @@ This project allows users to manage products, track stock movements, and export 
 
 ---
 
-## 🗂 Project Structure
+## 📸 Screenshots
 <img width="1077" height="612" alt="Captura de ecrã 2026-03-10 194229" src="https://github.com/user-attachments/assets/1db71160-307a-4363-beb4-a9b9e83c27e1" />
 <img width="354" height="305" alt="Captura de ecrã 2026-03-10 194237" src="https://github.com/user-attachments/assets/824c026f-5f4f-42e2-ba02-c23ba4e02c57" />
 <img width="867" height="510" alt="Captura de ecrã 2026-03-10 194257" src="https://github.com/user-attachments/assets/03d2febb-c39d-4895-bf2b-90485b4000a3" />
